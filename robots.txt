@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /yonetim/
+
+Sitemap: https://topkapivba.com/sitemap.xml
